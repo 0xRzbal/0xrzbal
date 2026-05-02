@@ -6,20 +6,6 @@
 
 ---
 
-## 🌼 About Me
-- suka hal-hal baru
-- suka eksplor tools dan ide
-- suka bikin sesuatu yang berguna
-- suka belajar sambil jalan
-
-## ✨ Current Vibes
-- trying new things
-- learning little by little
-- keeping it simple
-- having fun- X: https://x.com/rzbal_
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=0xRzbal&style=flat-square&color=58A6FF" alt="profile views" />
 </p>
