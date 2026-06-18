@@ -1,5 +1,11 @@
 <h1 align="center">Bal 👋</h1>
 
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdnenk4NWg1dHlyZ2FqbXd0Ynpqa3NwNDBqYWxieGt2MzltNHg4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aQuMoDDzHv4AivLPNn/giphy.gif" width="120">
+</div>
+
+<h1 align="center">MailHub</h1>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGk5a2x3M3J6eTQ0bXQ4bGx4b2M0cnV0MGRpd3g5M2J3eTQ0biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohzdIuqJoo8QdKlnW/giphy.gif" width="420" alt="anime gif" />
+LFG
 </p>
